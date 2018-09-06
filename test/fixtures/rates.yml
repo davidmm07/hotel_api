@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  period: one
+  room: one
+  value: 1
+
+two:
+  period: two
+  room: two
+  value: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  date_in: 2018-09-01
+  date_out: 2018-09-01
+  guest: one
+
+two:
+  id: 
+  date_in: 2018-09-01
+  date_out: 2018-09-01
+  guest: two

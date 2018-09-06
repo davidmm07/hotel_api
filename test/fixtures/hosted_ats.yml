@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  guest: one
+  occupied_room: one
+  item: one
+  total: 1
+
+two:
+  id: 
+  guest: two
+  occupied_room: two
+  item: two
+  total: 1

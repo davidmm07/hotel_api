@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 
+  check_in: 2018-09-01 22:12:21
+  check_out: 2018-09-01 22:12:21
+  room: one
+  reservation: one
+
+two:
+  id: 
+  check_in: 2018-09-01 22:12:21
+  check_out: 2018-09-01 22:12:21
+  room: two
+  reservation: two
